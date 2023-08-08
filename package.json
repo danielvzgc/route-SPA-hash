@@ -1,6 +1,6 @@
 {
   "name": "route-spa-hash",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Módulo que implementa un sistema de enrutamiento para SPA basada en el hash de la URL",
   "main": "src/index.js",
   "scripts": {
@@ -8,5 +8,13 @@
   },
   "keywords": [],
   "author": "Daniel.vz",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielvzgc/route-SPA-hash.git"
+  },
+  "bugs": {
+    "url": "https://github.com/danielvzgc/route-SPA-hash/issues"
+  },
+  "homepage": "https://github.com/danielvzgc/route-SPA-hash#readme"
 }
