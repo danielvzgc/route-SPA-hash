@@ -29,7 +29,8 @@ Donde:
 }
 ```
 - _rootNode_: es una referencia a un elemento HTML que cambiará su contenido en función del hash de la URL. Si no se le pasa ningún valor, se crea una etiqueta div con el id "root".
-➤ getRoutes(): Método que imprime en consola las rutas establecidas al instanciar la clase RoutesHash().
+- 
+➤ __getRoutes()__: Método que imprime en consola las rutas establecidas al instanciar la clase RoutesHash().
 
 ➤ __getRootNode()__: Método que imprime en consola la referencia al nodo raíz establecido al instanciar la clase RoutesHash.
 
